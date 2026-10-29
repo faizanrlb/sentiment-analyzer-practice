@@ -1,4 +1,4 @@
-streamlit
-emoji
-pandas
-vaderSentiment
+streamlit>=1.35,<2
+vaderSentiment==3.3.2
+emoji>=2.12,<3
+pandas>=2.1,<3
